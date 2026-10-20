@@ -1,0 +1,56 @@
+[
+  {
+    "cell_id": "BAK-0101",
+    "region": "Nəsimi",
+    "band": "LTE1800",
+    "vendor": "Ericsson",
+    "lat": 40.3947,
+    "lon": 49.8402,
+    "height_m": 28
+  },
+  {
+    "cell_id": "BAK-0207",
+    "region": "Yasamal",
+    "band": "LTE800",
+    "vendor": "Nokia",
+    "lat": 40.3796,
+    "lon": 49.8124,
+    "height_m": 22
+  },
+  {
+    "cell_id": "BAK-0315",
+    "region": "Xətai",
+    "band": "LTE2600",
+    "vendor": "Huawei",
+    "lat": 40.3812,
+    "lon": 49.879,
+    "height_m": 35
+  },
+  {
+    "cell_id": "BAK-0422",
+    "region": "Sabunçu",
+    "band": "LTE800",
+    "vendor": "Ericsson",
+    "lat": 40.4416,
+    "lon": 49.9474,
+    "height_m": 30
+  },
+  {
+    "cell_id": "BAK-0530",
+    "region": "Binəqədi",
+    "band": "LTE1800",
+    "vendor": "Nokia",
+    "lat": 40.4667,
+    "lon": 49.8276,
+    "height_m": 25
+  },
+  {
+    "cell_id": "BAK-0618",
+    "region": "Nərimanov",
+    "band": "LTE1800",
+    "vendor": "Huawei",
+    "lat": 40.4086,
+    "lon": 49.8702,
+    "height_m": 32
+  }
+]
