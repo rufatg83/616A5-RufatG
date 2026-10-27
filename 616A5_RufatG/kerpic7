@@ -1,0 +1,6 @@
+#print("=== Kerpic 7 ===")
+rsrp_list = [-91.5, -108.1, -86.2 -103.3, -110.4]
+for v in rsrp_list:
+    x = int(input("neciye vuraq"))
+    v = v * x
+    print(v)
